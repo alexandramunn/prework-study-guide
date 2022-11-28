@@ -32,10 +32,7 @@
    p {
     text-align: center;
     font-size: 30px;
-<<<<<<< HEAD
-   }
-=======
-   }
+
 
    .card {
     width: 80%;
@@ -43,4 +40,4 @@
     border: 5px solid blue;
     box-shadow: 5px 10px #888888;
   }
->>>>>>> 05655a40cc57895796ae354de335e87cd4c46568
+
